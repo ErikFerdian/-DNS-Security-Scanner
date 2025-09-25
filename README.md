@@ -20,7 +20,8 @@ Jalankan program dengan dua opsi input:
    python dns_security_scanner.py -f domains.txt
 # Contoh Input/Output
 Input (domains.txt)
-<img width="1307" height="234" alt="image" src="https://github.com/user-attachments/assets/cd8d995a-9ffe-4c44-bace-f3df46f99d9b" />
+<img width="700" height="241" alt="image" src="https://github.com/user-attachments/assets/21fe3991-485a-4707-983f-08964a539e6c" />
+
 Output di Terminal
 <img width="683" height="170" alt="image" src="https://github.com/user-attachments/assets/4b9d197c-9ac3-4dd6-9ca2-235ac5d7db0e" />
 <img width="683" height="179" alt="image" src="https://github.com/user-attachments/assets/192f855a-eca0-4993-a725-c2609f4c03ab" />
