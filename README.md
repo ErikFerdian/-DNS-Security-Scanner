@@ -19,10 +19,10 @@ Jalankan program dengan dua opsi input:
    Buat file domains.txt dengan isi daftar domain (satu per baris), lalu jalankan:
    python dns_security_scanner.py -f domains.txt
 # Contoh Input/Output
-Input (domains.txt)
-<img width="700" height="241" alt="image" src="https://github.com/user-attachments/assets/21fe3991-485a-4707-983f-08964a539e6c" />
+1. Input (domains.txt):
+<img width="695" height="241" alt="image" src="https://github.com/user-attachments/assets/68d45e90-b25f-4a31-9980-aaf833c9d170" />
 
-Output di Terminal
+2. Output di Terminal:
 <img width="683" height="170" alt="image" src="https://github.com/user-attachments/assets/4b9d197c-9ac3-4dd6-9ca2-235ac5d7db0e" />
 <img width="683" height="179" alt="image" src="https://github.com/user-attachments/assets/192f855a-eca0-4993-a725-c2609f4c03ab" />
 # Output File (dns_security_report.json)
