@@ -25,6 +25,7 @@ Jalankan program dengan dua opsi input:
 2. Output di Terminal:
 <img width="683" height="170" alt="image" src="https://github.com/user-attachments/assets/4b9d197c-9ac3-4dd6-9ca2-235ac5d7db0e" />
 <img width="683" height="179" alt="image" src="https://github.com/user-attachments/assets/192f855a-eca0-4993-a725-c2609f4c03ab" />
+
 # Output File (dns_security_report.json)
 <img width="1389" height="774" alt="image" src="https://github.com/user-attachments/assets/9c9483f1-8bb5-4b0c-95ad-91ac1f8461e0" />
 <img width="1372" height="612" alt="image" src="https://github.com/user-attachments/assets/72cfba52-45a1-4444-b3b2-211094a59c2b" />
