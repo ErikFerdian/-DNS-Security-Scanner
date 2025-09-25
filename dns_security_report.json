@@ -1,0 +1,122 @@
+[
+    {
+        "domain": "ugm.ac.id",
+        "records": {
+            "A": [
+                "175.111.88.3"
+            ],
+            "AAAA": [
+                "64:ff9b::af6f:5803"
+            ],
+            "MX": [
+                "30 ASPMX2.GOOGLEMAIL.COM.",
+                "20 ALT1.ASPMX.L.GOOGLE.COM.",
+                "20 ALT2.ASPMX.L.GOOGLE.COM.",
+                "10 ASPMX.L.GOOGLE.COM.",
+                "30 ASPMX3.GOOGLEMAIL.COM."
+            ],
+            "NS": [
+                "ns2.ugm.ac.id.",
+                "ns1.ugm.ac.id."
+            ],
+            "CNAME": [],
+            "SOA": [
+                "ns1.ugm.ac.id. admin.ugm.ac.id. 2002075873 1800 1200 1209600 86400"
+            ],
+            "TXT": [
+                "v=spf1 a a:smtp3.ugm.ac.id a:smtp5.ugm.ac.id include:_spf.google.com include:spf.protection.outlook.com ~all",
+                "13388235",
+                "MS=6134F6D7F99EC75CA4FC0DFC7C672A67D4E0D9CA",
+                "google-site-verification=L8i1Si53TAIb52IgrYn_DUj0BUoBk06Wx0b81s-Yu2k",
+                "_5a4c9oer65a09bpeu7rd94eg7x5vpv3",
+                "#9398599",
+                "Universitas Gadjah Mada Yogyakarta",
+                "cisco-ci-domain-verification=79ede3f23a2aee9c40d6e163e0878ede07fc131c6c48edab44b8be9b4c433ac8",
+                "google-site-verification=s49J35oHh9RwU-jjvtyvAaLA_fAN_0Y35Rj4E4ZOy4s",
+                "google-site-verification=daqdXW6vfKoXuEcskH1qJvFQtvj-dZr7yitENsxz8xA"
+            ]
+        },
+        "security": {
+            "SPF": "OK",
+            "DKIM": "OK",
+            "DMARC": "OK"
+        }
+    },
+    {
+        "domain": "kemdikbud.go.id",
+        "records": {
+            "A": [
+                "118.98.227.101"
+            ],
+            "AAAA": [
+                "64:ff9b::7662:e365"
+            ],
+            "MX": [
+                "5 ciremai.kemdikbud.go.id."
+            ],
+            "NS": [
+                "ns1.kemdikbud.go.id.",
+                "ns2.kemdikbud.go.id."
+            ],
+            "CNAME": [],
+            "SOA": [
+                "ns1.kemdikbud.go.id. andri.kemdikbud.go.id. 2025092237 28800 7200 1209600 86400"
+            ],
+            "TXT": [
+                "google-site-verification=rGLVgl579G1eO1BzRAcD6_fBr2ZbOaZGyJAiHJTVrDo",
+                "v=spf1 mx a ip4:118.98.237.227/32 ip4:118.98.222.0/25 a:mail.kemdikbud.go.id  a:ciremai.kemdikbud.go.id include:mail.zendesk.com include:spf.kirim.email ~all",
+                "6j0b7c3f96mtvb8n5cybmb3n2vql4352",
+                "MS=FB9AF04EF5F6A311B0C72DA8F1D1E5B040EECE3E",
+                "google-site-verification=9PT59rh9YxObDrYpFPhXQ0bP6nKX6ogissRBnTM6X4U"
+            ]
+        },
+        "security": {
+            "SPF": "OK",
+            "DKIM": "MISSING",
+            "DMARC": "OK"
+        }
+    },
+    {
+        "domain": "telkom.co.id",
+        "records": {
+            "A": [
+                "118.98.34.240",
+                "180.250.116.128"
+            ],
+            "AAAA": [
+                "64:ff9b::7662:22f0",
+                "64:ff9b::b4fa:7480"
+            ],
+            "MX": [
+                "1 securemailgwjt3.telkom.co.id.",
+                "1 securemailgwjt4.telkom.co.id.",
+                "1 securemailgwjt12.telkom.co.id."
+            ],
+            "NS": [
+                "ns1-34.azure-dns.com.",
+                "ns2-34.azure-dns.net.",
+                "ns3-34.azure-dns.org.",
+                "ns4-34.azure-dns.info."
+            ],
+            "CNAME": [],
+            "SOA": [
+                "ns1-34.azure-dns.com. azuredns-hostmaster.microsoft.com. 332714815 3600 360 604800 3600"
+            ],
+            "TXT": [
+                "Telkom.Co.Id, PT Telekomunikasi Indonesia Official Corporate Domain",
+                "MS=ms55499271",
+                "google-site-verification=CshEMU4RPE2TRT8NDO4C5Ty15bBf4RCkZc4cH0RcDO0",
+                "v=spf1 mx ip4:180.250.119.0/25 ip4:118.98.34.236 ip4:118.98.34.237 ip4:180.250.119.27 ip4:180.250.119.28 ip4:180.250.119.29 ip4:180.250.119.30 ip4:180.250.116.50 ip4:180.250.119.31 ip4:180.250.119.32 ip4:180.250.119.33 ip4:180.250.119.34 ip4:180.250.119.45 ip4:118.98.34.237 ip4:118.98.34.236 ip4:180.250.119.47 ip4:180.250.116.212 ip4:180.250.116.223 ip4:180.250.116.179 ip4:180.250.119.79 ip4:180.250.119.78 ip4:180.250.119.88 include:ncapp02.com include:spf.protection.outlook.com -all",
+                "google-site-verification=6Ao9LGeU3ytQzyJJuSnH7G8HwXY2UVIRiRWElW-lAak",
+                "google-site-verification=els5daAJB71idTScWa-9CcIWzkt0OzoRqzceef4MAFA",
+                "ZOOM_verify_nUSQbe0J5gMEjD6TxAJRJ2",
+                "_ihwp6mhwcidxmokuos40sf29xwgfbsx"
+            ]
+        },
+        "security": {
+            "SPF": "OK",
+            "DKIM": "MISSING",
+            "DMARC": "OK"
+        }
+    }
+]
